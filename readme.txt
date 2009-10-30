@@ -6,11 +6,7 @@ Requires at least: 2.5
 Tested up to: 2.8.5
 Stable tag: 1.2
 
-Detects and blocks Google Side-Wiki. Does not run if Side-Wiki is not
-detected and has capability to allow new versions or different version
-of Google toolbar to be detected as well as always blocking.
-
-Get Google Side-Wiki Blocker to keep your sites free of poison posts!
+Detects and blocks Google Side-Wiki. Can be set to not run if Side-Wiki is not detected.
 
 == Description ==
 
