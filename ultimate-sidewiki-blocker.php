@@ -25,12 +25,11 @@
 
 /*
 Plugin Name:Ultimate Sidewiki Blocker
-Version:1.1
+Version: 1.2.1
 Plugin URI:http://www.celticcrosseng.com/wpplugs/USWB
 Description:Blocks Google Side-Wiki Access To Your WP Pages
 Author:David T. McKee, Celtic Cross Engineering
 Author URI:http://www.celticcrosseng.com
-Version: 1.2.1
 */
 
 $key_phrase = get_option('key_phrase');
