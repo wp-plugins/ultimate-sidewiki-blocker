@@ -3,8 +3,8 @@ Contributors: David T. McKee
 Donate link: http://www.celticcrosseng.com/wpplugs/USWB/
 Tags: sidewiki blocking
 Requires at least: 2.5
-Tested up to: 2.8.5
-Stable tag: 1.2.1
+Tested up to: 2.8.6
+Stable tag: 1.2.2
 
 Detects and blocks Google Side-Wiki. Can be set to not run if Side-Wiki is not detected.
 
@@ -57,9 +57,12 @@ email: dave@celticcrosseng.com
 
 == Changelog ==
 
+= 1.2.2 =
+* Updates and test upt to 2.8.6 version
+
 = 1.2.1 =
 * Updates to the comments and cleanup/tweaks to the code
-* This was done mainly to get the version correct in Wod Press
+* This was done mainly to get the version correct in Word Press
 
 = 1.2 =
 * updated the readme and text, did some cleanup in code.
