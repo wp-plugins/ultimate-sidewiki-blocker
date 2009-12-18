@@ -3,14 +3,10 @@ Contributors: David T. McKee
 Donate link: http://www.celticcrosseng.com/wpplugs/USWB/
 Tags: sidewiki blocking
 Requires at least: 2.5
-Tested up to: 2.8.5
-Stable tag: 1.2
+Tested up to: 2.8.6
+Stable tag: 1.2.2
 
-Detects and blocks Google Side-Wiki. Does not run if Side-Wiki is not
-detected and has capability to allow new versions or different version
-of Google toolbar to be detected as well as always blocking.
-
-Get Google Side-Wiki Blocker to keep your sites free of poison posts!
+Detects and blocks Google Side-Wiki. Can be set to not run if Side-Wiki is not detected.
 
 == Description ==
 
@@ -59,3 +55,17 @@ email: dave@celticcrosseng.com
 1. The Admin Setup Panel
 
 
+== Changelog ==
+
+= 1.2.2 =
+* Updates and test upt to 2.8.6 version
+
+= 1.2.1 =
+* Updates to the comments and cleanup/tweaks to the code
+* This was done mainly to get the version correct in Word Press
+
+= 1.2 =
+* updated the readme and text, did some cleanup in code.
+
+= 1.1 =
+* Original version for Wordpress
