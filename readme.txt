@@ -1,14 +1,15 @@
-=== Plugin Name ===
+=== Ultimate Sidewiki Blocker ===
 Contributors: David T. McKee
-Donate link: http://www.celticcrosseng.com/wpplugs/USWB/
 Tags: sidewiki blocking
 Requires at least: 2.5
-Tested up to: 2.8.6
-Stable tag: 1.2.2
+Tested up to: 2.9
+Stable tag: 1.2.2.1
+
+== Description ==
 
 Detects and blocks Google Side-Wiki. Can be set to not run if Side-Wiki is not detected.
 
-== Description ==
+== Features ==
 
 Imagine your competition writing whatever they want about you on the 
 SideWiki that pops up on your site... They can steal your traffic, 
@@ -57,8 +58,14 @@ email: dave@celticcrosseng.com
 
 == Changelog ==
 
+= 1.2.3 =
+* Final Updates and test up to 2.9 version
+
+= 1.2.2.1 =
+* Updates and test up to 2.9 version
+
 = 1.2.2 =
-* Updates and test upt to 2.8.6 version
+* Updates and test up to 2.8.6 version
 
 = 1.2.1 =
 * Updates to the comments and cleanup/tweaks to the code
