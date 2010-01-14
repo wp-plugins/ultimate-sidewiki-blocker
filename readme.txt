@@ -3,7 +3,7 @@ Contributors: David T. McKee
 Tags: sidewiki blocking
 Requires at least: 2.5
 Tested up to: 2.9
-Stable tag: 1.2.2.1
+Stable tag: 1.2.4
 
 == Description ==
 
@@ -57,6 +57,9 @@ email: dave@celticcrosseng.com
 
 
 == Changelog ==
+
+= 1.2.4 =
+* Final Updates and test up to 2.9.1 version, some clean up etc.
 
 = 1.2.3 =
 * Final Updates and test up to 2.9 version

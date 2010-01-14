@@ -1,6 +1,6 @@
 <?php
 /**********************************************************************
- * Copyright 2006-2009, Celtic Cross Engineering
+ * Copyright 2006-2010, Celtic Cross Engineering
  * http://www.CelticCrossEng.com
  * 
  * All rights reserved.
@@ -11,7 +11,7 @@
  *       This software is CopyRIGHTed.
  *
  ***********************************************************************
- * Copyright 2009 Celtic Cross Engineering, and David T. McKee
+ * Copyright 2009-2010 Celtic Cross Engineering, and David T. McKee
  * 
  * Licensed under the Apache License, 
  * Version 2.0 (the "License"); you may not use this file except in compliance 
@@ -25,7 +25,7 @@
 
 /*
 Plugin Name:Ultimate Sidewiki Blocker
-Version: 1.2.3
+Version: 1.2.4
 Plugin URI:http://www.celticcrosseng.com/wpplugs/USWB
 Description:Blocks Google Side-Wiki Access To Your WP Pages
 Author:David T. McKee, Celtic Cross Engineering
@@ -84,7 +84,7 @@ function usb_options() {
         <table>
 	   <tr>
 		<td width="20"><img src="<?php echo PLUGIN_URI.'sw_block_icon.png'; ?>" width="64px" height="64px" ></td>
-		<td><h3><b>USWB V1.1 Celtic Cross Engineering, 2009</b></h3></td>
+		<td><h3><b>USWB V1.2.4 Celtic Cross Engineering, 2010</b></h3></td>
 		<td></td>
 	   </tr>
         </table>
@@ -121,6 +121,7 @@ You can also set if you want to hash only if side-wiki is detected or always on.
 Finally, you have to ability to set the block detection string if that becomes necessary in the future (currently the Side-Wiki detection string is 'GTB6')
 <br>
 For Information and Support, go to <a href="http://www.celticcrosseng.com/wpplugs/USWB">CelticCrossEng.com/wpp/uswb</a>.<br>
+For Other Great SoftWare, HealthWare, WeaponWare, and a good cigar go to <a href="http://www.HardToFindSoftware.com/">HardToFind</a>.<br>
 </div>
 <?php
 }
